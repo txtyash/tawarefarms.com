@@ -11,7 +11,7 @@
 			<svelte:fragment slot="lead">
 				<div class="flex items-center">
 					<img src="/images/logo.svg" alt="Grape icon" class="w-8 h-8 mr-2" />
-					<span class="text-4xl logo-font">TF</span>
+					<span class="text-xl lg:text-4xl logo-font">TF</span>
 				</div>
 			</svelte:fragment>
 			<svelte:fragment slot="trail">
