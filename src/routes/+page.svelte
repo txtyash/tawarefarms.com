@@ -55,8 +55,8 @@
 						</p>
 						<p>
 							What began as a modest farming venture has blossomed into a significant player in both
-							domestic and export markets. Since 2017, we've expanded our reach by forming valuable
-							partnerships with esteemed companies such as:
+							domestic and export markets. Since 2017, we've expanded our reach by selling our
+							products to esteemed companies such as:
 						</p>
 						<ul class="list-disc list-inside pl-4">
 							<li>Mahindra Agri Solutions</li>
