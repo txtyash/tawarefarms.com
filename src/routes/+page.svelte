@@ -135,13 +135,13 @@
 					<!-- Right side: Contact Info -->
 					<div class="text-center md:text-right">
 						<p>(+91) 98222-81461</p>
-						<p>info@tawarefarms.com</p>
+						<a href="mailto:tawarefarms@gmail.com">tawarefarms@gmail.com</a>
 					</div>
 				</div>
 
 				<!-- Social Links and Copyright -->
 				<div class="mt-8 text-center">
-					<div class="flex justify-center space-x-4 mb-4">
+					<!-- <div class="flex justify-center space-x-4 mb-4">
 						<a href="#" class="hover:text-white">
 							<svg class="h-6 w-6" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true">
 								<path
@@ -167,8 +167,8 @@
 								/>
 							</svg>
 						</a>
-					</div>
-					<p>&copy; 2024 Your Company Name. All rights reserved.</p>
+					</div> -->
+					<p>&copy; 2024 Taware Farms. All rights reserved.</p>
 				</div>
 			</div>
 		</footer>
